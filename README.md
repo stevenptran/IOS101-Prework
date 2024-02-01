@@ -17,9 +17,24 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+![](https://github.com/stevenptran/IOS101-Prework/blob/main/ios101_prework.gif) .
 
 ## App Brainstorming (Step 4)
+Favorite Apps:
+- Spotify
+    - Easy connectibility with wireless devices
+    - Nice organization of playlists 
+- Canvas
+    - Nice dashboard showing all classes
+    - Organizes courses, making it easy to see grades, syllabus, etc.
+- Gmail
+    - Gives the ability to have access to multiple gmail accounts and shows mail from all inboxes
+    - Can upload files from your phone as well as download them
+- Duolingo
+    - Educational game, which makes learning feel like a game
+    - Very nice friends/social system, allowing you to commend your friends for their achievements
+
+I would like to build a simple video game which allows you to flip tiles to match with other tiles. I want this app to allow users to upload their own images as well as customize the colors of the app. It would allow you to increase the difficulty by adding a time limit or adding more tiles. I would like to build this idea because I have always wanted to build a video game, and this would be a great start to my first video game app.
 
 ## Notes
 
